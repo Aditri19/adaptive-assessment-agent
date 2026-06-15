@@ -1,0 +1,6 @@
+{
+  "name": "Adaptive Assessment Agent",
+  "description": "An AI-powered adaptive learning system that creates personalized challenges, evaluates responses, and dynamically adapts difficulty.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
